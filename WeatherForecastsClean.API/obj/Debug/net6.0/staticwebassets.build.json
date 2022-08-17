@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dy/zPG4pqndzDdjxTIyQ4Pr0WYzBemopNEybHAwJ1Wc=",
+  "Source": "WeatherForecastsClean.API",
+  "BasePath": "_content/WeatherForecastsClean.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

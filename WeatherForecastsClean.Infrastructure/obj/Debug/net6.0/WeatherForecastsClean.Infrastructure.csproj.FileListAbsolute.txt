@@ -1,0 +1,17 @@
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Infrastructure.deps.json
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Infrastructure.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Infrastructure.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Application.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Core.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Application.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\bin\Debug\net6.0\WeatherForecastsClean.Core.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.AssemblyInfo.cs
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.csproj.CopyComplete
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\refint\WeatherForecastsClean.Infrastructure.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\WeatherForecastsClean.Infrastructure.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Infrastructure\obj\Debug\net6.0\ref\WeatherForecastsClean.Infrastructure.dll

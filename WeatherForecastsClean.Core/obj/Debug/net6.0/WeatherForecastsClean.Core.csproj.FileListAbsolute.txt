@@ -1,0 +1,12 @@
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\bin\Debug\net6.0\WeatherForecastsClean.Core.deps.json
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\bin\Debug\net6.0\WeatherForecastsClean.Core.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\bin\Debug\net6.0\WeatherForecastsClean.Core.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.csproj.AssemblyReference.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.AssemblyInfoInputs.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.AssemblyInfo.cs
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.csproj.CoreCompileInputs.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\refint\WeatherForecastsClean.Core.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\WeatherForecastsClean.Core.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Core\obj\Debug\net6.0\ref\WeatherForecastsClean.Core.dll

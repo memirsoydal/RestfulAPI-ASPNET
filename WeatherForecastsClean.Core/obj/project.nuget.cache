@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "klu9VM+k3PoCH8y/LbE7uh23RsGvFg5e2ijToF0CSYHHXm/B1mjMRHeORZmXS9fmoJ71rHLKxeTKKXjXOBIwDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\memir\\source\\repos\\WeatherForecastsClean\\WeatherForecastsClean.Core\\WeatherForecastsClean.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\memir\\.nuget\\packages\\mongodb.bson\\2.17.1\\mongodb.bson.2.17.1.nupkg.sha512",
+    "C:\\Users\\memir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

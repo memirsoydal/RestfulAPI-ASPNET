@@ -1,0 +1,15 @@
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\bin\Debug\net6.0\WeatherForecastsClean.Application.deps.json
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\bin\Debug\net6.0\WeatherForecastsClean.Application.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\bin\Debug\net6.0\WeatherForecastsClean.Application.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\bin\Debug\net6.0\WeatherForecastsClean.Core.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\bin\Debug\net6.0\WeatherForecastsClean.Core.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.csproj.AssemblyReference.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.AssemblyInfoInputs.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.AssemblyInfo.cs
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.csproj.CoreCompileInputs.cache
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.csproj.CopyComplete
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\refint\WeatherForecastsClean.Application.dll
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\WeatherForecastsClean.Application.pdb
+C:\Users\memir\source\repos\WeatherForecastsClean\WeatherForecastsClean.Application\obj\Debug\net6.0\ref\WeatherForecastsClean.Application.dll
