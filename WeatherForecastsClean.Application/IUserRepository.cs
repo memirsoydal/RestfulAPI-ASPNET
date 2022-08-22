@@ -4,5 +4,6 @@ namespace WeatherForecastsClean.Application;
 
 public interface IUserRepository
 {
-    Task<User?> GetUserAsync(string username, string password);
+    Task<User?> GetUserAsync(string id);
+    Task<User?> LoginUserAsync(string username, string password);
 }

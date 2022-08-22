@@ -1,27 +1,21 @@
 ﻿using WeatherForecastsClean.Core;
 
-namespace WeatherForecastsClean.Application
-{
-    public class WeatherForecastService : IWeatherForecastService
-    {
-        private readonly IWeatherForecastRepository _weatherForecastRepository;
-        public WeatherForecastService(IWeatherForecastRepository weatherForecastRepository)
-        {
-            _weatherForecastRepository = weatherForecastRepository;
-        }
-        public Task<WeatherForecast> ProcessFTemperatureAsync(WeatherForecast newForecast)
-        {
-            try
-            {
-                newForecast.TemperatureF = 32 + (int)(newForecast.TemperatureC / 0.5556);
+namespace WeatherForecastsClean.Application;
 
-                return Task.FromResult(newForecast);
-            }
-            catch (Exception e)
-            {
-                var message = e.Message;
-                throw new ArgumentNullException(message);
-            }
+public class WeatherForecastService : IWeatherForecastService
+{
+    public Task<WeatherForecast> ProcessFTemperatureAsync(WeatherForecast newForecast)
+    {
+        try
+        {
+            newForecast.TemperatureF = 32 + (int)(newForecast.TemperatureC / 0.5556);
+
+            return Task.FromResult(newForecast);
+        }
+        catch (Exception e)
+        {
+            var message = e.Message;
+            throw new ArgumentNullException(message);
         }
     }
 }

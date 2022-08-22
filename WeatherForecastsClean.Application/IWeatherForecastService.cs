@@ -1,9 +1,8 @@
 ﻿using WeatherForecastsClean.Core;
 
-namespace WeatherForecastsClean.Application
+namespace WeatherForecastsClean.Application;
+
+public interface IWeatherForecastService
 {
-    public interface IWeatherForecastService
-    {
-        Task<WeatherForecast> ProcessFTemperatureAsync(WeatherForecast newForecast);
-    }
+    Task<WeatherForecast> ProcessFTemperatureAsync(WeatherForecast newForecast);
 }
