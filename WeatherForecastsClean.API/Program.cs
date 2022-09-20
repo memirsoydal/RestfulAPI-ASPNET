@@ -49,6 +49,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddScoped<IWeatherForecastRepository, WeatherForecastRepository>();
 builder.Services.AddScoped<IWeatherForecastService, WeatherForecastService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped(typeof(IMongoRepository<>), typeof(MongoRepository<>));
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
