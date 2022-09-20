@@ -5,7 +5,8 @@ using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using WeatherForecastsClean.Application;
-using WeatherForecastsClean.Core;
+using WeatherForecastsClean.Application.Interfaces.Repos;
+using WeatherForecastsClean.Core.Models;
 
 namespace WeatherForecastsClean.API.Controllers;
 

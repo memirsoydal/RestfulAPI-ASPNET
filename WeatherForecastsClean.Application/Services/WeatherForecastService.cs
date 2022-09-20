@@ -1,6 +1,7 @@
-﻿using WeatherForecastsClean.Core;
+﻿using WeatherForecastsClean.Application.Interfaces.Services;
+using WeatherForecastsClean.Core.Models;
 
-namespace WeatherForecastsClean.Application;
+namespace WeatherForecastsClean.Application.Services;
 
 public class WeatherForecastService : IWeatherForecastService
 {

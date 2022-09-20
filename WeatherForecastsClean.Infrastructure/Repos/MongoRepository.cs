@@ -1,9 +1,10 @@
 ﻿using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using WeatherForecastsClean.Application;
-using WeatherForecastsClean.Core;
+using WeatherForecastsClean.Application.Interfaces.Repos;
+using WeatherForecastsClean.Core.Models;
 
-namespace WeatherForecastsClean.Infrastructure;
+namespace WeatherForecastsClean.Infrastructure.Repos;
 
 public class MongoRepository <T> : IMongoRepository<T> where T: BaseEntity
 {

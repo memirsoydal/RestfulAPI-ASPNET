@@ -1,7 +1,4 @@
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
-
-namespace WeatherForecastsClean.Core;
+﻿namespace WeatherForecastsClean.Core.Models;
 
 public class WeatherForecast : BaseEntity
 {

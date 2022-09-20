@@ -2,9 +2,10 @@
 using MongoDB.Bson;
 using MongoDB.Driver;
 using WeatherForecastsClean.Application;
-using WeatherForecastsClean.Core;
+using WeatherForecastsClean.Application.Interfaces.Repos;
+using WeatherForecastsClean.Core.Models;
 
-namespace WeatherForecastsClean.Infrastructure;
+namespace WeatherForecastsClean.Infrastructure.Repos;
 
 public class WeatherForecastRepository : IWeatherForecastRepository
 {

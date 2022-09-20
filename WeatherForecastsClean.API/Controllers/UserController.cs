@@ -2,7 +2,8 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WeatherForecastsClean.Application;
-using WeatherForecastsClean.Core;
+using WeatherForecastsClean.Application.Interfaces.Repos;
+using WeatherForecastsClean.Core.Models;
 
 namespace WeatherForecastsClean.API.Controllers;
 
