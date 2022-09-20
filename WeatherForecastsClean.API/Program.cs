@@ -3,7 +3,11 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using WeatherForecastsClean.Application;
+using WeatherForecastsClean.Application.Interfaces.Repos;
+using WeatherForecastsClean.Application.Interfaces.Services;
+using WeatherForecastsClean.Application.Services;
 using WeatherForecastsClean.Infrastructure;
+using WeatherForecastsClean.Infrastructure.Repos;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,4 +1,4 @@
-﻿namespace WeatherForecastsClean.Core;
+﻿namespace WeatherForecastsClean.Core.Models;
 
 public class UserDto
 {
