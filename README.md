@@ -1,7 +1,7 @@
 # RestfulAPI-ASPNET
 ## Introduction
 
-This ASP.net Web API project is meant to be an exemplary review.
+This ASP.net Web API project is meant to be an exemplary  review and a template. You can download this repo and look into the code for ideas or change and use however you need.
 
 [.NET 6 Core](https://dotnet.microsoft.com/download/dotnet/6.0) is the latest version of the popular .NET framework, providing developers with a modern, secure, and scalable platform for building powerful web applications. It includes a range of features and capabilities, such as enhanced security, improved performance, and better scalability.
 
