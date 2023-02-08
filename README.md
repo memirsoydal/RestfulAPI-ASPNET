@@ -11,9 +11,9 @@ The project makes use of a variety of modern technologies, such as JSON Web Toke
 
 Overall, ASP.net was a complex and business oriented framework design. I enjoyed learning it the first week, but later as the project grew things got a bit complicated to keep in mind. If you build a good structure using a model, such as Clean Architecture, your job can be easier.
 
-Injection mechanism works great. It helps you separate stuff into small and simpler building blocks but as I’ve said, if you are after a simple project, this can be more than what you are looking for.
+Injection and modular mechanism works great. It helps you separate stuff into small and simpler building blocks but as I’ve said, if you are after a simple project, this can be more than what you are looking for. Separating the project helps you change stuff later on, such as a function or a variable because it doesn't affect another building block.
 
-For websites with business oriantation, such as e-shops, this framework is a great pick.
+For websites with business oriantation, such as e-shops, this framework is a great pick. Last of all, this is a personal review. I've tinkered with the framework and C# language for a month and this is what I encountered. Your experience may differ from me completely.
 
 ## Rating
 
